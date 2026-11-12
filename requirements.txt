@@ -1,0 +1,2 @@
+# Optional dependency for pandas comparison in Task B3
+pandas>=2.0
